@@ -18,5 +18,4 @@ El disparador nació al ver un día una tonta publicación de facebook de alguna
 
 Luego de jugar con el teclado de mi celular (no tenia nada mejor que hacer en vacaciones), recorde que en mi infancia 
 
-
-[![](https://img.youtube.com/vi/AzyD1nOsiIs/0.jpg)](https://www.youtube.com/watch?v=AzyD1nOsiIs)
+https://youtu.be/AzyD1nOsiIs
