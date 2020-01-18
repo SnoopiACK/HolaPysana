@@ -1,7 +1,8 @@
-# HolaSusana
+# HolaSusana <img src="https://viapais.cdncimeco.com/media/cache/resolve/vertical_small/https://viapais.com.ar/files/2019/11/20191121150913_40287521_0_body.jpg" width="70">
+
 Demostración de como obtener el numero de teléfono digitado con solo el audio.
 
-![](https://viapais.cdncimeco.com/media/cache/resolve/vertical_small/https://viapais.com.ar/files/2019/11/20191121150913_40287521_0_body.jpg)
+
 
 HolaSusana se trata de un proyecto de verano
 
