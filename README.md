@@ -16,10 +16,10 @@ El disparador nació al ver un día una tonta publicación de facebook de alguna
 
 **La Lechuza** 12311231 369369 9#9631 9#9631 191 191
 
-Luego de jugar con el teclado de mi celular (no tenia nada mejor que hacer en vacaciones), recorde que existias un programa de television en los cuales se llamaban a los televidentes para que estos ganen algun primio. En este programa la conductora, de recurrente fraces desafortunadas, marcaba el telefono de manera muy particular. Los números correspondientes a la caracteristicas los marcaba nombrandolos y los restantes los acompañaba con una onomatopeya. Para que logicamente el numero de telefono del ganador no se emita casi por cadena nacional.
+Luego de jugar con el teclado de mi celular (no tenia nada mejor que hacer en vacaciones), recordé que existia un programa de television en los cuales se llamaban a los televidentes para que estos ganen algun primio. En este programa la conductora, de recurrente fraces desafortunadas, marcaba el telefono de manera muy particular. Los números correspondientes a la caracteristicas los marcaba nombrandolos y los restantes los acompañaba con una onomatopeya. Para que logicamente el numero de telefono del ganador no se emita casi por cadena nacional. Lo que si se repoducia era el sonido que producia cada tecla. Esto me llevo a pensar que si, cada tecla es diferente y logro identificar el sonido caracteristico de cada una, podre conocer el numero de telefono que se marcó, ya que me lo estan diciendo en forma indirecta.
 
-https://youtu.be/AzyD1nOsiIs
 
+https://youtu.be/AzyD1nOsiIs?t=8
 
 
 
