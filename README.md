@@ -41,6 +41,6 @@ Para confirmar el funcionamiento usé una aplicación de Android llamada _spectr
 
 Se observa como cuando se prueba una secuencia de botones horizontal (1 2 3) el tono mas bajo se mantiene quieto y el tono mayor varia. Cuando se prueba una secuencia vertical (1 2 3) el tono mas bajo varia y el tono mayor no.
 
-Tambien se puede decir que el sonido producido por el teclado de los celulares actuales son iguales a los clasicos que los utilizados en  comunicaciones sobre lineas analógicas, aunque es totalmente innecesario, pero la razón debe ser una cuestión de tradición/costumbre.
+Tambien se puede decir que el sonido producido por el teclado de los celulares actuales son iguales a los clasicos que los utilizados en  comunicaciones sobre lineas analógicas, aunque es totalmente innecesario, pero la razón debe ser una cuestión de tradición/costumbre (Como las cámaras digitales que reproducen el sonido de obturación).
 
 [![VIDEO DE SU!](https://img.youtube.com/vi/19ofkjRaJQc/0.jpg)](https://www.youtube.com/watch?v=19ofkjRaJQc)
