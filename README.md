@@ -38,7 +38,7 @@ Para confirmar el funcionamiento usé una aplicación de Android llamada _spectr
 
 **Video de demostración**
 
-[![VIDEO DE SU!](https://img.youtube.com/vi/5eLWga3Dr_0/0.jpg)](https://www.youtube.com/watch?v=5eLWga3Dr_0)
+[![VIDEO DE SU!](v1.png)](https://www.youtube.com/watch?v=5eLWga3Dr_0)
 
 Se observa como cuando se prueba una secuencia de botones horizontal (1 2 3) el tono mas bajo se mantiene quieto y el tono mayor varia. Cuando se prueba una secuencia vertical (1 2 3) el tono mas bajo varia y el tono mayor no.
 
