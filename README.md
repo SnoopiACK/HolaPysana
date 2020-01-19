@@ -23,7 +23,14 @@ Video de Susana llamada  ====>   https://youtu.be/AzyD1nOsiIs?t=8
 
 
 # Funcionamiento
-Pr
 
+En telefonía, el sistema de marcación por tonos, también llamado sistema multifrecuencial o DTMF (Dual-Tone Multi-Frequency) es usado para la señalización de telecomunicaciones sobre líneas telefónicas analógicas en la banda de frecuencia vocal entre teléfonos u otros equipos de comunicaciones y la central telefónica.
+
+<img src="https://ptolemy.berkeley.edu/eecs20/week2/keypad.gif" width="200">
+
+# Test
+[![VIDEO DE SU!](https://img.youtube.com/vi/5eLWga3Dr_0/0.jpg)](https://www.youtube.com/watch?v=5eLWga3Dr_0)
+
+5eLWga3Dr_0
 
 [![VIDEO DE SU!](https://img.youtube.com/vi/19ofkjRaJQc/0.jpg)](https://www.youtube.com/watch?v=19ofkjRaJQc)
