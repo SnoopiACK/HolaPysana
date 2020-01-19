@@ -43,4 +43,12 @@ Se observa como cuando se prueba una secuencia de botones horizontal (1 2 3) el 
 
 Tambien se puede decir que el sonido producido por el teclado de los celulares actuales son iguales a los clasicos que los utilizados en  comunicaciones sobre lineas analógicas, aunque es totalmente innecesario, pero la razón debe ser una cuestión de tradición/costumbre (Como las cámaras digitales que reproducen el sonido de obturación).
 
+
+# Implementacion
+
+
+Se realizó un script que detecte los 2 pulsos emitidos de los 7 posible y segun la convinación discrimine que núumero fue presionado. Para esto la solución más fácil fue raalizar la fft sobre la señal de audio y analisar los valores de potencias correspondiente a estas frecuencias. 
+
+Lo que hice fue utilizar(robar) un proyecto que realizaba la fft sobre la señal de audio de la entrada de microfono de la PC y modificarlo para evaluar los niveles de potencia, tambien se realizaron alguna excepciones para que no detecte como un botón apretado cuando alguien habla o se escucha cualquier otro sonido. 
+
 [![VIDEO DE SU!](https://img.youtube.com/vi/19ofkjRaJQc/0.jpg)](https://www.youtube.com/watch?v=19ofkjRaJQc)
