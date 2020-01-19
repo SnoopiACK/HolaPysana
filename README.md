@@ -59,6 +59,8 @@ Lo que hice fue utilizar(robar) un proyecto que realizaba la fft sobre la señal
 
 ![Screenshot](imag.PNG)
 
+El programa se mantiene "escuchando", en el grafico superior se plotea la señal de audio, en en el segundo gráfico se muesta el espectro de esta señal, y en la parte inferior se registran los números que fueron detectados.
+
 # Resultados
 
 Actualmente el sonido se toma de la entrada de micrófono de la PC, yo utilizo el micrófono de unos auriculares de un celular, ya que tuve mejore resultados que con el micro interno de la notebook. 
