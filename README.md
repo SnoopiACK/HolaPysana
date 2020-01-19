@@ -35,8 +35,10 @@ Al ser pulsada en el teléfono la tecla correspondiente al dígito que quiere ma
 # Test
 
 Para confirmar el funcionamiento usé una aplicación de Android llamada _spectroid_ la cual hace de analizador de espectro y el teclado de llamadas.
+
+
 [![VIDEO DE SU!](https://img.youtube.com/vi/5eLWga3Dr_0/0.jpg)](https://www.youtube.com/watch?v=5eLWga3Dr_0)
 
-5eLWga3Dr_0
+Se observa como cuando se prueba una secuencia de botones horizontal (1 2 3) el tono mas bajo se mantiene quieto y el tono mayor varia. Cuando se prueba una secuencia vertical (1 2 3) el tono mas bajo varia y el tono mayor no.
 
 [![VIDEO DE SU!](https://img.youtube.com/vi/19ofkjRaJQc/0.jpg)](https://www.youtube.com/watch?v=19ofkjRaJQc)
