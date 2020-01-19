@@ -1,13 +1,3 @@
-#!/usr/bin/env python
-# encoding: utf-8
-
-## Module infomation ###
-# Python (3.4.4)
-# numpy (1.10.2)
-# PyAudio (0.2.9)
-# matplotlib (1.5.1)
-# All 32bit edition
-########################
 
 import numpy as np
 import pyaudio
