@@ -3,8 +3,7 @@
 
 
 
-HolaPysana se trata de un mini proyecto de verano, el cual consiste en demostrar como indirecta
-
+HolaPysana se trata de un mini proyecto de verano, el cual consiste en demostrar como indirectamente cuando alguien marca por telefono se puede conocer que números estan siendo digitado, con tan solo escuchar el sonido producido por el aparato.
 
 # Inspiración
 
