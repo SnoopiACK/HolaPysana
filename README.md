@@ -3,7 +3,7 @@
 
 
 
-HolaSusana se trata de un mini proyecto de verano, el cual consiste en demostrar como indirecta
+HolaPysana se trata de un mini proyecto de verano, el cual consiste en demostrar como indirecta
 
 
 # Inspiración
@@ -54,6 +54,12 @@ Lo que hice fue utilizar(robar) un proyecto que realizaba la fft sobre la señal
 
 ![Screenshot](imag.PNG)
 
+# Resultados
 
+Actualmente el sonido se toma de la entrada de microfono de la PC, yo utilizo el microfono de unos auriculares de un celular, ya que tuve mejore resultados que con el micro interno de la notebook. 
+
+Lo probé marcando con mi teléfono celulares y los resultados son más que bueno, algunas veces el programa registra falsos positivos, pero en general el funcionamiento es sactifactorio.
+
+Si bien el funcionamiento es muy bueno, se podria mejorar la detección pero la finalidad del proyecto era demostrar como, indirectamente, los programas de televisión nos "dicen" a que numero de teléfono están marcando.
 
 [![VIDEO DE SU!](v2.png)](https://www.youtube.com/watch?v=19ofkjRaJQc)
