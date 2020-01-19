@@ -29,7 +29,7 @@ Para poder discriminar cada sonido primero debia conocer como es el funcionamien
 
 Al ser pulsada en el teléfono la tecla correspondiente al dígito que quiere marcar, se envían dos tonos, de distinta frecuencia: uno por columna y otro por fila en la que esté la tecla, que la central decodifica a través de filtros especiales, detectando qué dígito se marcó. 
 
-Estas frecuencias están determinadas por norma y siempre van a ser las mismas, lo que es genial para mí ya que sé que frecuencias tengo que avaluar (697hz,770hz,852hz,941hz,1209hz,1336hz,1477hz)
+Estas frecuencias están determinadas por norma y siempre van a ser las mismas, lo que es genial para mí ya que sé que frecuencias tengo que avaluar (697hz, 770hz, 852hz, 941hz, 1209hz, 1336hz, 1477hz)
 
     
 
@@ -43,9 +43,9 @@ Para confirmar el funcionamiento usé una aplicación de Android llamada _spectr
 [![VIDEO DE SU!](v1.png)](https://www.youtube.com/watch?v=5eLWga3Dr_0)
 
 
-Se observa como cuando se prueba una secuencia de botones horizontal (1 2 3) el tono más bajo se mantiene quieto y el tono mayor varia. Cuando se prueba una secuencia vertical (1 2 3) el tono más bajo varia y el tono mayor no.
+Se observa como cuando se prueba una secuencia de botones horizontal (1 2 3) el tono más bajo se mantiene igual y el tono mayor varia. Cuando se prueba una secuencia vertical (1 2 3) el tono más bajo varia y el tono mayor no.
 
-También se puede decir que el sonido producido por el teclado de los celulares actuales son iguales a los clásicos que los utilizados en comunicaciones sobre líneas analógicas, aunque es totalmente innecesario, pero la razón debe ser una cuestión de tradición/costumbre (Como las cámaras digitales que reproducen el sonido de obturación).
+También se puede decir que el sonido producido por el teclado de los celulares actuales son iguales a los clásicos que los utilizados en comunicaciones sobre líneas analógicas, aunque es totalmente innecesario, pero la razón debe ser una cuestión de tradición/costumbre (como las cámaras digitales que reproducen el sonido de obturación).
 
 
 # Implementación
@@ -65,7 +65,7 @@ Actualmente el sonido se toma de la entrada de micrófono de la PC, yo utilizo e
 
 Lo probé marcando con mi teléfono celulares y los resultados son más que bueno, algunas veces el programa registra falsos positivos, pero en general el funcionamiento es satisfactorio.
 
-Si bien el funcionamiento es muy bueno, se podría mejorar la detección pero la finalidad del proyecto era demostrar cómo, indirectamente, los programas de televisión nos "dicen" a que número de teléfono están marcando.
+Si bien el funcionamiento es muy bueno, se podría mejorar la detección pero el proyecto tomó solo 2 dias y la finalidad era demostrar cómo, indirectamente, los programas de televisión (o cualquier persona que marque) nos "dicen" a que número de teléfono están marcando.
 
 
 [![VIDEO DE SU!](v2.png)](https://www.youtube.com/watch?v=19ofkjRaJQc)
