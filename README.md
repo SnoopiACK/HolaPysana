@@ -28,9 +28,6 @@ El sonido tan caracteristicos de las teclas de los telefonos previenen de algo c
 
 <img src="https://ptolemy.berkeley.edu/eecs20/week2/keypad.gif" width="200">
 
-<a href="http://stackoverflow.com" target="_blank">Go</a> 
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
-
 
 Al ser pulsada en el teléfono la tecla correspondiente al dígito que quiere marcar, se envían dos tonos, de distinta frecuencia: uno por columna y otro por fila en la que esté la tecla, que la central decodifica a través de filtros especiales, detectando qué dígito se marcó.
 
