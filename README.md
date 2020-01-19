@@ -22,7 +22,7 @@ Video de Susana llamada  ====>   https://youtu.be/AzyD1nOsiIs?t=8
 
 # Funcionamiento
 
-El sonido tan característico de las teclas de los teléfonos previenen de algo conocido como DTMF (Dual-Tone Multi-Frequency), es un sistema de marcación por tono que es usado para la señalización en comunicaciones sobre líneas analógicas en la banda de frecuencia vocal entre teléfonos u otros equipos de comunicaciones y la central telefónica. El sistema fue propuesto en 1960.
+Para poder discriminar cada sonido primero debia conocer como es el funcionamiento de marcación del teléfono. El sonido tan característico de las teclas de los teléfonos previenen de algo conocido como DTMF (Dual-Tone Multi-Frequency), es un sistema de marcación por tono que es usado para la señalización en comunicaciones sobre líneas analógicas en la banda de frecuencia vocal entre teléfonos u otros equipos de comunicaciones y la central telefónica. El sistema fue propuesto en 1960.
 
 <img src="https://ptolemy.berkeley.edu/eecs20/week2/keypad.gif" width="200">
 
