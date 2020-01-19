@@ -65,7 +65,6 @@ Actualmente el sonido se toma de la entrada de micrófono de la PC, yo utilizo e
 
 Lo probé marcando con mi teléfono celulares y los resultados son más que bueno, algunas veces el programa registra falsos positivos, pero en general el funcionamiento es satisfactorio.
 
-Si bien el funcionamiento es muy bueno, se podría mejorar la detección pero el proyecto tomó solo 2 dias y la finalidad era demostrar cómo, indirectamente, los programas de televisión (o cualquier persona que marque) nos "dicen" a que número de teléfono están marcando.
-
+Si bien el funcionamiento es muy bueno, se podría mejorar la detección pero el proyecto tomó solo 2 dias y la finalidad era demostrar cómo, indirectamente, los programas de televisión (o cualquier persona que marque) nos "dicen" a que número de teléfono están marcando y demostrar con que facilidad estos pueden ser detectados.
 
 [![VIDEO DE SU!](v2.png)](https://www.youtube.com/watch?v=19ofkjRaJQc)
