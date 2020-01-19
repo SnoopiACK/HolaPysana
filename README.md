@@ -51,7 +51,7 @@ Se realizó un script que detecte los 2 pulsos emitidos de los 7 posible y segun
 
 Lo que hice fue utilizar(robar) un proyecto que realizaba la fft sobre la señal de audio de la entrada de microfono de la PC y modificarlo para evaluar los niveles de potencia, tambien se realizaron alguna excepciones para que no detecte como un botón apretado cuando alguien habla o se escucha cualquier otro sonido. 
 
-![Screenshot](ima.PNG)
+![Screenshot](ima.PNG width="200")
 
 
 
