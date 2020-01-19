@@ -29,14 +29,18 @@ Para poder discriminar cada sonido primero debia conocer como es el funcionamien
 
 Al ser pulsada en el teléfono la tecla correspondiente al dígito que quiere marcar, se envían dos tonos, de distinta frecuencia: uno por columna y otro por fila en la que esté la tecla, que la central decodifica a través de filtros especiales, detectando qué dígito se marcó. 
 
-Estas frecuencias están determinadas por norma y siempre van a ser las mismas, lo que es genial para mí ya que sé que frecuencias tengo que avaluar.
+Estas frecuencias están determinadas por norma y siempre van a ser las mismas, lo que es genial para mí ya que sé que frecuencias tengo que avaluar (697hz,770hz,852hz,941hz,1209hz,1336hz,1477hz)
+
+    
 
 
 # Test
 
 Para confirmar el funcionamiento usé una aplicación de Android llamada _spectroid_ la cual hace de analizador de espectro y el teclado de llamadas.
 
-**Video de demostración** [![VIDEO DE SU!](v1.png)](https://www.youtube.com/watch?v=5eLWga3Dr_0)
+**Video de demostración** 
+
+[![VIDEO DE SU!](v1.png)](https://www.youtube.com/watch?v=5eLWga3Dr_0)
 
 
 Se observa como cuando se prueba una secuencia de botones horizontal (1 2 3) el tono más bajo se mantiene quieto y el tono mayor varia. Cuando se prueba una secuencia vertical (1 2 3) el tono más bajo varia y el tono mayor no.
