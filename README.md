@@ -33,6 +33,8 @@ Al ser pulsada en el teléfono la tecla correspondiente al dígito que quiere ma
 
 
 # Test
+
+Para confirmar el funcionamiento usé una aplicación de Android llamada _spectroid_ la cual hace de analizador de espectro y el teclado de llamadas.
 [![VIDEO DE SU!](https://img.youtube.com/vi/5eLWga3Dr_0/0.jpg)](https://www.youtube.com/watch?v=5eLWga3Dr_0)
 
 5eLWga3Dr_0
