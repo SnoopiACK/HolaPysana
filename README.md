@@ -56,4 +56,4 @@ Lo que hice fue utilizar(robar) un proyecto que realizaba la fft sobre la señal
 
 
 
-[![VIDEO DE SU!](https://img.youtube.com/vi/19ofkjRaJQc/0.jpg)](https://www.youtube.com/watch?v=19ofkjRaJQc)
+[![VIDEO DE SU!](v2.png)](https://www.youtube.com/watch?v=19ofkjRaJQc)
