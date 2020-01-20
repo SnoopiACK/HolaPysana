@@ -70,3 +70,6 @@ Lo probé marcando con mi teléfono celulares y los resultados son más que buen
 Si bien el funcionamiento es muy bueno, se podría mejorar la detección pero el proyecto tomó solo 2 dias y la finalidad era demostrar cómo, indirectamente, los programas de televisión (o cualquier persona que marque) nos "dicen" a que número de teléfono están marcando y demostrar con que facilidad estos pueden ser detectados.
 
 [![VIDEO DE SU!](v2.png)](https://www.youtube.com/watch?v=19ofkjRaJQc)
+
+
+[![VIDEO DE Tangalanga!](https://i9.ytimg.com/vi/1pObB_xrOUk/mq2.jpg?sqp=CJLek_EF&rs=AOn4CLDNUjnr6950et6z-O6UrjwVwRgyPw)](https://www.youtube.com/watch?v=1pObB_xrOUk)
