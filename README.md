@@ -72,4 +72,4 @@ Si bien el funcionamiento es muy bueno, se podría mejorar la detección pero el
 [![VIDEO DE SU!](v2.png)](https://www.youtube.com/watch?v=19ofkjRaJQc)
 
 
-[![VIDEO DE Tangalanga!](https://i9.ytimg.com/vi/1pObB_xrOUk/mq2.jpg?sqp=CJLek_EF&rs=AOn4CLDNUjnr6950et6z-O6UrjwVwRgyPw)](https://www.youtube.com/watch?v=1pObB_xrOUk)
+[![VIDEO DE Tangalanga!](https://i9.ytimg.com/vi/1BC6MinMqwY/mq2.jpg?sqp=CIDhk_EF&rs=AOn4CLB5C3HH3L2FyMaSszKkjyu3E9noWQ)](https://www.youtube.com/watch?v=1BC6MinMqwY)
