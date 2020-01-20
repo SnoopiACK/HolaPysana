@@ -71,7 +71,7 @@ Si bien el funcionamiento es muy bueno, se podría mejorar la detección pero el
 
 [![VIDEO DE SU!](v2.png)](https://www.youtube.com/watch?v=19ofkjRaJQc)
 
-Probando con llamadas de Tangalanga:
+**Probando con llamadas de Tangalanga:**  En este se ve como primero apreta 2 veces el mismo botón, pero solo lo detecta una vez.
 
 
 [![VIDEO DE Tangalanga!](https://i9.ytimg.com/vi/1BC6MinMqwY/mq2.jpg?sqp=CIDhk_EF&rs=AOn4CLB5C3HH3L2FyMaSszKkjyu3E9noWQ)](https://www.youtube.com/watch?v=1BC6MinMqwY)
