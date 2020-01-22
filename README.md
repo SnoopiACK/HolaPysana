@@ -15,7 +15,8 @@ El disparador nació al ver un día una tonta publicación de facebook de alguna
 
 **La Lechuza** 12311231 369369 9#9631 9#9631 191 191
 
-Luego de jugar con el teclado de mi celular (no tenía nada mejor que hacer en vacaciones), recordé que existía un programa de televisión en los cuales se llamaban a los televidentes para que estos ganen algún premio. En este programa la conductora, de recurrente frases desafortunadas, marcaba el teléfono de manera muy particular. Los números correspondientes a la característica los marcaba nombrándolos y los restantes los acompañaba con una onomatopeya. Para que, lógicamente, el número de teléfono del ganador no se emita casi por cadena nacional. Lo que si se reproducía era el sonido que producía cada tecla. Esto me llevo a pensar que sí, cada tecla es diferente (ya que se puede tocar una canción con estas) y si logro identificar el sonido característico de cada una, podré conocer el número de teléfono que se marcó, ya que me lo están diciendo en forma indirecta.
+Luego de jugar con el teclado de mi celular (no tenía nada mejor que hacer en vacaciones), recordé que existía un programa de televisión en los cuales se llamaban a los televidentes para que estos ganen algún premio. En este programa la conductora, de recurrente frases desafortunadas, marcaba el teléfono de manera muy particular. Los números correspondientes a la característica los marcaba nombrándolos y los restantes los acompañaba con una onomatopeya. Para que, lógicamente, el número de teléfono del ganador no se emita casi por cadena nacional. Lo que si se reproducía era el sonido de cada tecla. 
+Esto me llevo a pensar que sí, cada tecla es diferente (ya que se puede tocar una canción) y si logro identificar el sonido característico de cada una, podré conocer el número de teléfono que se marcó, ya que me lo están diciendo en forma indirecta.
 
 Video de Susana llamada  ====>   https://youtu.be/AzyD1nOsiIs?t=8
 
