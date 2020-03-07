@@ -3,7 +3,7 @@
 
 
 
-HolaPysana se trata de un mini proyecto, el cual consiste en demostrar como indirectamente cuando alguien marca por teléfono se puede conocer que números está siendo digitado, con tan solo escuchar el sonido producido por el aparato.
+HolaPysana se trata de un mini proyecto, el cual consiste en demostrar como indirectamente cuando alguien marca por teléfono se puede conocer que números están siendo digitado, con tan solo escuchar el sonido producido por el aparato.
 
 # Inspiración
 
